@@ -1,4 +1,4 @@
-# - 👋 Hi, Yosef Pride
+# - 👋 Hi, I'm Yosef Pride
 
 ## About Me
 
