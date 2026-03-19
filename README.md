@@ -23,7 +23,6 @@ I’m a self-driven developer focused on building strong fundamentals in compute
 
 * Systems programming
 * Computational thinking and problem solving
-* Cybersecurity (potential path)
 * Biotechnology (long-term transition from a programming background)
 
 ## Projects
