@@ -23,7 +23,7 @@ I’m a self-driven developer focused on building strong fundamentals in compute
 
 * Systems programming
 * Computational thinking and problem solving
-* Biotechnology (long-term transition from a programming background)
+* Biotechnology, Bioinformatics (long-term transition from a programming background)
 
 ## Projects
 
@@ -35,7 +35,7 @@ I’m a self-driven developer focused on building strong fundamentals in compute
 
 * Achieve strong proficiency in low-level and high-level programming
 * Build a solid mathematical foundation for advanced fields
-* Transition into more complex domains like cybersecurity or biotech
+* Transition into more complex domains like biotech
 
 ## Workflow & Environment
 
