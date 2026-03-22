@@ -7,7 +7,6 @@ I’m a self-driven developer focused on building strong fundamentals in compute
 ## Current Focus
 
 * Deepening my understanding of **C++**, **Python**, and low-level systems
-* Working through *Programming: Principles and Practice Using C++*
 * Completing projects from **Nand2Tetris**
 * Solving algorithmic problems (LeetCode / Project Euler)
 * Strengthening mathematical foundations (pre-calculus → calculus → probability)
